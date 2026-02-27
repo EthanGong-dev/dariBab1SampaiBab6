@@ -1,0 +1,3 @@
+Roti,3,5
+Susu,5,2
+Coklat,2.5,4
