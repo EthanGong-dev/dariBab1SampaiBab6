@@ -1,4 +1,4 @@
-package topic5a2;
+package geminiQuestion;
 
 import java.util.*;
 import java.io.*;

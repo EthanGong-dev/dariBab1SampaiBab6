@@ -1,4 +1,4 @@
-package topic5a2;
+package geminiQuestion;
 
 import java.io.*;
 import java.util.Scanner;
@@ -25,3 +25,4 @@ public class question1 {
 	}
 
 }
+
